@@ -22,6 +22,7 @@ rnd.shuffle(users)
 
 MAX_RETRIES = 5
 retry = 0
+pairs = []
 while retry < MAX_RETRIES:
     retry += 1
     pairs = []
