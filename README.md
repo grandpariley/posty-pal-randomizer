@@ -4,7 +4,7 @@ Randomizer for the Postcard Spectacular
 Requires a `data.csv` with the sign up information for the Postcard Spectacular. It is of the format
 ```
 username,location
-rileytoddherman,Github CA
+riley#1234,Github SK
 ```
 The output is a `results-{today}.txt` with the pairings.
 
